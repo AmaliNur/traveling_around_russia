@@ -14,13 +14,13 @@
 
 @media screen and (max-width: 1024px) {
     .header {
-        width: 93%;
+        width: 91%;
     }
 }
 
 @media screen and (max-width: 768px) {
     .header {
-        width: 91%;
+        width: 93%;
     }
 }
 
