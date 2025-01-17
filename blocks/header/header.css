@@ -12,22 +12,3 @@
     width: 93%;
 }
 
-@media screen and (max-width: 1024px) {
-    .header {
-        width: 91%;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .header {
-        width: 93%;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .header {
-        width: 90%;
-        align-items: center;
-        padding-top: 16px;
-    }
-}
